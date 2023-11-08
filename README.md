@@ -31,9 +31,9 @@
     
     * Regla 10. Los elementos `h3` tendrán color de fondo `background-color: rgba(0, 139, 139, 0.529);`, relleno de `0.5px` y esquinas redondeadas con valor de `5px`
     
-    * Regla 11. Los elementos `div` que sean descendientes de un elemento con id gallery tendrán un ancho `width` de `100%`
+    * Regla 11. Los elementos `div` que sean descendientes de un elemento con id "gallery" tendrán un ancho `width` de `100%`
     
     * Regla 12. Los elementos `img` tendrán un ancho `width` de `100%`, un `border: solid darkcyan 1px;` y esquinas redondeadas con valor de `5px`
 
 5. Utilizar GitHub Pages para desplegar la web en internet
-6. Entregar la URL de GitHub Pages en la actividad en Moodle
+6. Entregar la URL de GitHub Pages y la URL del repositorio en la actividad en Moodle
